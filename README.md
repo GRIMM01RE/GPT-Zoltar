@@ -7,6 +7,8 @@ Interacts with the user and asks if they want to hear their fortune.
 Generates mystic fortunes based on the GPT API's response.
 Handles exceptions and gracefully manages API key retrieval, prompting the user for it if not found in the environment variables.
 Saves the user-provided API key to an environment variable for future use.
+
+
 Usage:
 
 Clone the repository and navigate to the script's directory.
