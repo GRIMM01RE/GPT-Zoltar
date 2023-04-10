@@ -15,6 +15,8 @@ Clone the repository and navigate to the script's directory.
 Set the OPENAI_API_KEY environment variable with your OpenAI API key or provide it when prompted by the script.
 Run the script using python great_haunted_zoltar.py.
 Interact with the Great Haunted Zoltar and dare to reveal your mystic fortune.
+
+
 Requirements:
 
 Python 3.6 or higher
